@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @escalmat
 - 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning real word application of data analysis
 - 💞️ I’m looking to collaborate on market research, trading bot or BI projects
 - 📫 email me at matiasnicolasescalante@gmail.com
 
