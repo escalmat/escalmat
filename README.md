@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @escalmat
-- 👀 I’m interested in data analysis 
+- 👀 I’m interested in programming and data analysis 
 - 💞️ I’m looking to collaborate on market research, trading bot or BI projects
 - 📫 email me at matiasnicolasescalante@gmail.com
 
