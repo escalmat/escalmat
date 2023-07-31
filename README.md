@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @escalmat
-- 👀 I’m interested in programming and data analysis 
-- 💞️ I’m looking to collaborate on market research, trading bot or BI projects
+- 👀 I’m interested in programming and cyber sec.
+- 💞️ I’m looking to collaborate on vulnerability research and anonymous communication
 - 📫 email me at matiasnicolasescalante@gmail.com
 
 <!---
