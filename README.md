@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @escalmat
-- 👀 I’m interested in programming and cyber sec.
-- 💞️ I’m looking for my first job as a cybersec. analyst.
+- 👀 I’m interested in IT technician positions.
 - 📫 email me at matiasnicolasescalante@gmail.com
 
 <!---
